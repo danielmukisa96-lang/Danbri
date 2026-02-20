@@ -1,0 +1,1 @@
+from fastapi import FastAPI\n\napp = FastAPI()\n\n@app.get("/")\nasync def read_root():\n    return {"message": "Welcome to Danbri AI model for generating websites, apps, graphics, and videos!"}\n\n# Add more endpoints as needed to serve the model accordingly.
