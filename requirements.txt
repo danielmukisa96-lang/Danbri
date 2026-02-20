@@ -1,0 +1,19 @@
+torch
+tensorflow
+opencv-python
+pillow
+moviepy
+numba
+transformers
+diffusers
+fastapi
+uvicorn
+pydantic
+numpy
+scipy
+scikit-learn
+requests
+aiohttp
+python-dotenv
+pyyaml
+# Additional ML/graphics packages can be added as needed
