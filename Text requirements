@@ -1,0 +1,7 @@
+unsloth@git+https://github.com/unslothai/unsloth.git
+torch
+transformers
+gradio>=4.0
+accelerate
+bitsandbytes
+xformers
